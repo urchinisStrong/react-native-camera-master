@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>C579698B-6F1F-46D0-96BE-2F3B419E8213</string>
+	<key>IDESourceControlProjectName</key>
+	<string>RCTCamera</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>05D97541703895F6B4EF9B854FB8703ADCBE3E3A</key>
+		<string>https://github.com/urchinisStrong/react-native-camera-master.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ios/RCTCamera.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>05D97541703895F6B4EF9B854FB8703ADCBE3E3A</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/urchinisStrong/react-native-camera-master.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>05D97541703895F6B4EF9B854FB8703ADCBE3E3A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>05D97541703895F6B4EF9B854FB8703ADCBE3E3A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>react-native-camera-master</string>
+		</dict>
+	</array>
+</dict>
+</plist>
